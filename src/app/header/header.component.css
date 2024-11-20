@@ -1,0 +1,8 @@
+.navbar-nav li a {
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .navbar-nav li a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
